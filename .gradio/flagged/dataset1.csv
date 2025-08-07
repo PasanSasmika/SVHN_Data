@@ -1,0 +1,3 @@
+Upload a House Number Image,Predicted Digit,timestamp
+.gradio\flagged\Upload a House Number Image\f389984d44dcb54d2167\test_image_14.png,"{""label"": ""1"", ""confidences"": [{""label"": ""1"", ""confidence"": 0.9309034943580627}, {""label"": ""5"", ""confidence"": 0.01783885806798935}, {""label"": ""4"", ""confidence"": 0.017010705545544624}]}",2025-08-06 21:36:13.017714
+.gradio\flagged\Upload a House Number Image\b13a7cce8e351dddc635\test_image_17.png,"{""label"": ""1"", ""confidences"": [{""label"": ""1"", ""confidence"": 0.9319111108779907}, {""label"": ""5"", ""confidence"": 0.01726618781685829}, {""label"": ""4"", ""confidence"": 0.01663053035736084}]}",2025-08-06 22:01:11.539479
